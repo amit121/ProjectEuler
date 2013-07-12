@@ -1,5 +1,5 @@
 class solution6
-  public static void main(String[] args){
+	public static void main(String[] args){
 		int sum1 = 0; //variable for sum of squares
 		int sum2 = 0; //variable for square of the sums
 		for(int i=1; i<=100; i++){
