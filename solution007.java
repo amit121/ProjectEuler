@@ -1,5 +1,5 @@
 class solution7{
-  public static void main(String[] args){
+	public static void main(String[] args){
 		int count = 1; //start the counter at 1
 		int num = 2; //first prime number is 2
 		while(count>=1){
