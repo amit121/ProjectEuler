@@ -1,6 +1,6 @@
 //updated solution
 class solution5{
-  public static void main(String[] args){
+	public static void main(String[] args){
 		int i = 20;
 		while(true){
 			if((i%1==0) && (i%2==0) && (i%3==0) && (i%4==0) && (i%5==0) &&
