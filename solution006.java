@@ -1,4 +1,4 @@
-class solution6
+class solution6{
 	public static void main(String[] args){
 		int sum1 = 0; //variable for sum of squares
 		int sum2 = 0; //variable for square of the sums
